@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+    align-items: center;
+}
+h1{
+    font-family: 'Zilla Slab', serif;
+}
+.carousel{
+    font-family: 'Zilla Slab', serif;
+    font-color: black;
+ 
+}
+.carousel, .carousel-inner > .item > img {
+    height: 500px;
+    width: 800px;
+  }
