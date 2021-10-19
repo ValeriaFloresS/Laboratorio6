@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+}
+h1{
+    font-family: 'Zilla Slab', serif;
+}
+p{
+    font-family: 'Zilla Slab', serif;
+    font color: black;
+}
+.carousel, .carousel-inner > .item > img {
+    height: 100px;
+  }
+div#Bio{
+    font-family: 'Zilla Slab', serif;
+    font color: black;
+    float: right;
+    margin: 45px;
+}
